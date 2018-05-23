@@ -215,6 +215,9 @@ Wykres przedstawiajacy rozmiar ryby
 
 [Wykres](https://plot.ly/~AleksanderAleksander/1/#/,'wykres')
 
+![](sledzie/Plot%201.html)
+
+
 Regresor przewidujacy rozmiar ryby
 ====================================
 
