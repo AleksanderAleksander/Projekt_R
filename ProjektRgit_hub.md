@@ -213,7 +213,7 @@ ggplot(df, aes(x=nao, y=lcop1)) + geom_point() + geom_smooth(method = "lm") + th
 Wykres przedstawiajacy rozmiar ryby
 =====================================
 
-[Wykres](https://plot.ly/~AleksanderAleksander/1/.html,'wykres')
+[Wykres](https://plot.ly/~AleksanderAleksander/1/,'wykres')
 
 Regresor przewidujacy rozmiar ryby
 ====================================
