@@ -220,6 +220,8 @@ width="900" height="800" frameborder="0" scrolling="no"
 src="https://plot.ly/~AleksanderAleksander/1/#/.embed">
 </iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dHHmUF9gs70" frameborder="0" allowfullscreen></iframe>
+
 Regresor przewidujacy rozmiar ryby
 ====================================
 
