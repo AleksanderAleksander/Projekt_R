@@ -4,7 +4,7 @@
 author: Aleksander Cybulski
 ===========================
 
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: 23 maja 2018
 ===================
 
 -   [Wstep oraz podsumowanie analizy](#wstep-oraz-podsumowanie-analizy)
