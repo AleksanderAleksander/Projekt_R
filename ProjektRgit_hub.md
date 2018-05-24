@@ -15,7 +15,7 @@ date: 23 maja, 2018
 -   [Wykres przedstawiający rozmiar ryby](#wykres-przedstawiajacy-rozmiar-ryby)
 -   [Regresor przewidujący rozmiar ryby](#regresor-przewidujacy-rozmiar-ryby)
 
-\#Wstep oraz podsumowanie analizy
+Wstep oraz podsumowanie analizy
 =================================
 
 Celem przeprowadzonego badania jest analiza wielkości śledzia oceanicznego wyławianego w wodach Europy na podstawie pomiarów dokonywanych przez ostatnie 60 lat. Dane pobrane zostały z połowów jednostek komercyjnych.
@@ -24,7 +24,7 @@ W wyniku przeprowadzonej analizy można zauważyć, że wielkość śledzia uzal
 
 ![](sledzie/image01_orig.jpg)
 
-\#Biblioteki oraz opis danych
+Biblioteki oraz opis danych
 =============================
 
 ``` r
@@ -96,7 +96,7 @@ summary(sledzie1)
                    NA's   :1584  
 ```
 
-\#Wartosci puste
+Wartosci puste
 ================
 
 W zbiorze występuje 11056 pustych rekordów. Na podstawie podsumowania statystyk można zauważyć, że brakujące wartości występują w danych dotyczących dostępności planktonu (cfin1, cfin2, chel1, chel2, lcop1, lcop2) oraz temperatury przy powierzchni wody (sst). Wartości puste zostały zastąpione średnimi wartościami z danych kolumn.
@@ -142,7 +142,7 @@ summary(df)
  
 ```
 
-\#Graficzna analiza
+Graficzna analiza
 ===================
 
 ``` r
@@ -182,7 +182,7 @@ beanplot(df$nao, main = "Oscylacja północnoatlantycka", col = "yellow", xlab =
 
 ![](sledzie/Plot6.png)
 
-\#Badanie korelacji
+Badanie korelacji
 ===================
 
 ``` r
@@ -210,12 +210,12 @@ ggplot(df, aes(x=nao, y=lcop1)) + geom_point() + geom_smooth(method = "lm") + th
 
 ![](sledzie/Plot9.png)
 
-\#Wykres przedstawiający rozmiar ryby
+Wykres przedstawiajacy rozmiar ryby
 =====================================
 
 [Wykres](%22https://plot.ly/~AleksanderAleksander/1/.html%22,'wykres')
 
-\#Regresor przewidujący rozmiar ryby
+Regresor przewidujacy rozmiar ryby
 ====================================
 
 ``` r
