@@ -4,7 +4,7 @@
 author: Aleksander Cybulski
 ===========================
 
-date: `r format(Sys.time(), '%d %B, %Y')`
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 ===================
 
 -   [Wstep oraz podsumowanie analizy](#wstep-oraz-podsumowanie-analizy)
