@@ -224,6 +224,7 @@ src="https://plot.ly/~AleksanderAleksander/1/#/.embed">
 
 <iframe src="http://docs.google.com/viewer?url=http://lcolladotor.github.io/cv/en_CV_lcollado.pdf&amp;embedded=true" width="900" height="780" style="border: none;"></iframe>
 
+![](https://plot.ly/~AleksanderAleksander/1/#/.embed)
 
 Regresor przewidujacy rozmiar ryby
 ====================================
