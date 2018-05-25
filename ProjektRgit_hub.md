@@ -4,7 +4,7 @@
 author: Aleksander Cybulski
 ===========================
 
-date: 23 maja 2018
+date: 26 maja 2018
 ===================
 
 -   [Wstep oraz podsumowanie analizy](#wstep-oraz-podsumowanie-analizy)
